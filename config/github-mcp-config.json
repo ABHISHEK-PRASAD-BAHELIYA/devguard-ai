@@ -1,0 +1,11 @@
+{
+  "mcpServer": "github",
+  "auth": {
+    "type": "token",
+    "env": "GITHUB_TOKEN"
+  },
+  "permissions": [
+    "read:repo",
+    "read:issues"
+  ]
+}

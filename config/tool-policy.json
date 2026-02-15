@@ -1,0 +1,11 @@
+{
+  "allowedTools": [
+    "github.listCommits",
+    "github.listIssues"
+  ],
+  "blockedActions": [
+    "github.deleteRepo",
+    "github.createRepo"
+  ],
+  "maxToolCalls": 5
+}
