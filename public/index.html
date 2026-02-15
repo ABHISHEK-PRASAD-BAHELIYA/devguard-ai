@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>DevGuard AI</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<h1>🛡 DevGuard AI</h1>
+
+<input id="owner" placeholder="GitHub Username">
+<input id="repo" placeholder="Repository Name">
+<button onclick="runAnalysis()">Analyze</button>
+
+<div id="result" class="card">
+    <h2 id="status"></h2>
+    <div class="progress">
+        <div id="progress-bar"></div>
+    </div>
+    <p id="score"></p>
+    <ul id="reasons"></ul>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>
