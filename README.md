@@ -18,21 +18,21 @@ https://drive.google.com/file/d/1RkL-AF9ZxJ4i7g28NoKrLll5yc4cqHsa/view?usp=drive
 
 ## 📸 Demo Screenshots
 
-![Demo](https://drive.google.com/file/d/1bs6u0SiYU9XQujvl4oaF7lNOEoGkGnaf/view?usp=sharing)
+![Demo](./public/images/5.jpeg)
 
-![Demo](https://drive.google.com/file/d/1hY6qn1UorwUCNR1OBrzWoMEPxuly5j10/view?usp=sharing)
+![Demo](./public/images/2.jpeg)
 
-[![Watch Demo](https://drive.google.com/file/d/1hxpTbFddt7IdSK11xUiXLIQmUnBBsGY8/view?usp=sharing)](https://drive.google.com/file/d/1RkL-AF9ZxJ4i7g28NoKrLll5yc4cqHsa/view?usp=drive_link)
+[![Watch Demo](./public/images/demo.mp4)
 
 ### 🖥 Dashboard UI
 
-![Dashboard Screenshot](https://drive.google.com/file/d/1hxpTbFddt7IdSK11xUiXLIQmUnBBsGY8/view?usp=sharing)
+![Dashboard Screenshot](./public/images/1.jpeg)
 
 ### 📊 Risk Analysis Output
 
-![Risk Result Screenshot](https://drive.google.com/file/d/1KhKapc_PMLEGwBFqiTGcqLx_aMcIaEGq/view?usp=sharing)
+![Risk Result Screenshot](./public/images/3.jpeg)
 
-![Risk Result Screenshot](https://drive.google.com/file/d/1wm286BVIvDFC515JT1Efpi38U9Ic92dn/view?usp=sharing)
+![Risk Result Screenshot](./public/images/4.jpeg)
 
 ---
 
@@ -63,7 +63,7 @@ Before any deployment, it:
 
 ## 🏗 Architecture
 
-![Architecture](https://drive.google.com/file/d/1l-RB0L_S2o8Ht5u0aTDbIcOo1ekCvc0y/view?usp=sharing)
+![Architecture](./public/images/architecture.png)
 
 Frontend Dashboard
 ↓
@@ -117,12 +117,10 @@ This transforms DevGuard from a simple app into a governed AI workflow system.
 
 ## 🛠 Installation (Local Setup)
 
-## 🛠 Installation
-
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/devguard-ai.git
+git clone https://github.com/ABHISHEK-PRASAD-BAHELIYA/devguard-ai.git
 cd devguard-ai
 ```
 
